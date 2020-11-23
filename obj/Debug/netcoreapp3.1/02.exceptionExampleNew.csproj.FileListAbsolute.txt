@@ -1,0 +1,12 @@
+D:\QA__\GitProjects\02.exceptionExampleNew\bin\Debug\netcoreapp3.1\02.exceptionExampleNew.exe
+D:\QA__\GitProjects\02.exceptionExampleNew\bin\Debug\netcoreapp3.1\02.exceptionExampleNew.deps.json
+D:\QA__\GitProjects\02.exceptionExampleNew\bin\Debug\netcoreapp3.1\02.exceptionExampleNew.runtimeconfig.json
+D:\QA__\GitProjects\02.exceptionExampleNew\bin\Debug\netcoreapp3.1\02.exceptionExampleNew.runtimeconfig.dev.json
+D:\QA__\GitProjects\02.exceptionExampleNew\bin\Debug\netcoreapp3.1\02.exceptionExampleNew.dll
+D:\QA__\GitProjects\02.exceptionExampleNew\bin\Debug\netcoreapp3.1\02.exceptionExampleNew.pdb
+D:\QA__\GitProjects\02.exceptionExampleNew\obj\Debug\netcoreapp3.1\02.exceptionExampleNew.AssemblyInfoInputs.cache
+D:\QA__\GitProjects\02.exceptionExampleNew\obj\Debug\netcoreapp3.1\02.exceptionExampleNew.AssemblyInfo.cs
+D:\QA__\GitProjects\02.exceptionExampleNew\obj\Debug\netcoreapp3.1\02.exceptionExampleNew.csproj.CoreCompileInputs.cache
+D:\QA__\GitProjects\02.exceptionExampleNew\obj\Debug\netcoreapp3.1\02.exceptionExampleNew.dll
+D:\QA__\GitProjects\02.exceptionExampleNew\obj\Debug\netcoreapp3.1\02.exceptionExampleNew.pdb
+D:\QA__\GitProjects\02.exceptionExampleNew\obj\Debug\netcoreapp3.1\02.exceptionExampleNew.genruntimeconfig.cache
