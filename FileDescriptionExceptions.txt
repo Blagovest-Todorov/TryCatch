@@ -1,0 +1,40 @@
+using System;
+
+namespace _03.StackOverFlowException
+{
+    class Program
+    {
+        static void Main() 
+        {
+            string s = Console.ReadLine();
+            try
+            {
+                Int32.Parse(s);
+            }
+            
+            catch (FormatException)
+            {
+                Console.WriteLine("Invalid integer number!");
+            }
+            catch (OverflowException)
+            {
+                Console.WriteLine("The nuimebr si too big to fit the int32!");
+            }
+            catch (Exception)
+            {
+
+                Console.WriteLine("Can not Parse the number!");
+            }//always start for teh most specific exception to the most common base expection, other wise we dont ente
+            //all the catch blocks
+            //Common Exceptiojn must be last !!!otherwise we dotn check and enter into other exceptions
+            //down is unreachabel e code, becasue Exception catches all type of the exceptions 
+            //We raise, throw exception using keyword throw
+            //when an exception is thrown  the program execution stops
+
+           // the exception travel over the sack until a suitable catch block is reachedto handle it
+           //unhandled exceptions display error message
+        }
+            
+        
+    }
+}
